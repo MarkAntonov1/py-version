@@ -1,2 +1,3 @@
 h=12
-print(h)
+g=1+2
+print(h,g)
